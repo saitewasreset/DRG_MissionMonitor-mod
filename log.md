@@ -1,5 +1,5 @@
 # Mission Info
-{MissionBeginTimestamp}|{MissionTime}|{MissionType}|{HazardBonus}|{Resulst}|{RewardCredit}|{TotalSupplyCount}
+{MissionBeginTimestamp}|{MissionTime}|{MissionType}|{HazardBonus}|{Result}|{RewardCredit}|{TotalSupplyCount}
 
 # Player Info
 {player}|{hero}|{PlayerRank}|{CharacterRank}|{CharacterPromotionTimes}|{join}|{left}|{present}|{Kills}|{Revived}|{Deaths}|{GoldMined}|{MineralsMined}|{XPGained}|{Escaped}|{PresentAtEnd}
