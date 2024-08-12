@@ -2,7 +2,7 @@
 {MissionBeginTimestamp}|{MissionTime}|{MissionType}|{HazardBonus}|{Result}|{RewardCredit}|{TotalSupplyCount}
 
 # Player Info
-{player}|{hero}|{PlayerRank}|{CharacterRank}|{CharacterPromotionTimes}|{join}|{left}|{present}|{Kills}|{Revived}|{Deaths}|{GoldMined}|{MineralsMined}|{XPGained}|{Escaped}|{PresentAtEnd}
+{player}|{hero}|{PlayerRank}|{CharacterRank}|{CharacterPromotionTimes}|{present}|{Kills}|{Revived}|{Deaths}|{GoldMined}|{MineralsMined}|{XPGained}|{Escaped}|{PresentAtEnd}
 
 # Damage Info
 {Time}|{RealDamage}|{Taker}|{Causer}|{Weapon}|{IsCauserPlayer}|{IsTakerPlayer}|{IsCauserEnemy}|{IsTakerEnemy}
